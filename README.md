@@ -20,7 +20,8 @@ Both scripts utilize the Python Imaging Library (PIL) to perform the conversions
 - Python 3.x
 - [Pillow](https://pillow.readthedocs.io/en/stable/) library
 
-## Installation (optional, copy the code and run in your python environment)
+## Installation (optional) 
+(You can skip this step. ##Download the .py files and run in your python environment)
 
 1. Clone the repository:
 
